@@ -59,7 +59,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
   
-    &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/emanuelcairess">
         GitHub
