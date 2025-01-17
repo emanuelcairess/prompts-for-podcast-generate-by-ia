@@ -38,13 +38,13 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://m365.cloud.microsoft/chat)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Capcut e Dreamina AI](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Copilot para gerar a capa
+- Dreamina AI para gerar a capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 
