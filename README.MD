@@ -63,13 +63,14 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
         href="https://github.com/emanuelcairess">
         GitHub
     </a>
-   
+   <p>
     &nbsp;|&nbsp;
     <a 
         href="https://www.instagram.com/emanuelcaires/">
         Instagram
     </a>
-    &nbsp;|&nbsp;</p>
+    &nbsp;|&nbsp 
+</p>
 </p>
 <br/><br/>
 <p>
