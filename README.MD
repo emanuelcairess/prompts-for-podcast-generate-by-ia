@@ -61,17 +61,13 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/emanuelcairess">
         GitHub
     </a>
+   
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/emanuelcaires/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -81,4 +77,4 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com ♥ por [Emanuel Caires](https://github.com/emanuelcairess)
